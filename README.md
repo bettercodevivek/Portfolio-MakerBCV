@@ -74,7 +74,9 @@ This is a versatile npm package designed to simplify the process of creating cap
 
         // Few suggested additions to your App.css files are:-
 
-         ```css
+```
+
+        App.css
     body {
     overflow-x:hidden;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
