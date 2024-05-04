@@ -73,8 +73,9 @@ This is a versatile npm package designed to simplify the process of creating cap
         //  and modifying the App.css file according to your needs.
 
         // Few suggested additions to your App.css files are:-
+```
+    App.css
 
-         ```css
     body {
     overflow-x:hidden;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -93,7 +94,5 @@ This is a versatile npm package designed to simplify the process of creating cap
     scroll-behavior: smooth;
        }
 
-```
 
-## ThankYou For Using Portfolio-Maker. If you found this package helpful appreciate the creator by giving a star to
-## the github reposiory. Happy Coding!!
+### ThankYou For Using Portfolio-Maker. If you found this package helpful appreciate the creator by giving a star to the github reposiory. Happy Coding!!
