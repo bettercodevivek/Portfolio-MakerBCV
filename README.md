@@ -4,7 +4,7 @@ This is a versatile npm package designed to simplify the process of creating cap
 
  # Features
 
-**1.Easy to Use:** Portfolio-Creator-BCV provides a user-friendly interface, making it accessible for beginners and professionals alike.
+**1.Easy to Use:** Portfolio-Maker provides a user-friendly interface, making it accessible for beginners and professionals alike.
 
 **2.Flexibility:** Customize every aspect of your portfolio, including layout, color scheme, fonts, and more.
 
@@ -76,6 +76,7 @@ This is a versatile npm package designed to simplify the process of creating cap
 ```
     App.css
 
+         ```css
     body {
     overflow-x:hidden;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -95,4 +96,5 @@ This is a versatile npm package designed to simplify the process of creating cap
        }
 
 
-### ThankYou For Using Portfolio-Maker. If you found this package helpful appreciate the creator by giving a star to the github reposiory. Happy Coding!!
+## ThankYou For Using Portfolio-Maker. If you found this package helpful appreciate the creator by giving a star to
+## the github reposiory. Happy Coding!!
