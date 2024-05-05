@@ -1,6 +1,6 @@
 {
   "name": "portfolio-maker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The ultimate npm package for creating stunning portfolios effortlessly.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
