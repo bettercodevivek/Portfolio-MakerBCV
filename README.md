@@ -36,15 +36,15 @@ This is a versatile npm package designed to simplify the process of creating cap
         
         // Add your name 
 
-        <Homepage name='' role=''>
+        <Homepage name='' role=''/>
 
         // Again add your name as well as your professional Role, such as FrontEnd Developer.
 
-        <About majorName='' languages=''>
+        <About majorName='' languages=''/>
 
         // Add your graduation major in majorName such as Computer Science and in the languages props add programming languages that you are fluent in.
 
-        <Skills urlforskilllogo1='' altname1=''>
+        <Skills urlforskilllogo1=' ' altname1=' '/>
 
         // In the Skills component you can add upto 9 different urls for Logos of different technology frameworks
         // or languages that you are good at, just like above code snippet you can add urlforskilllogo2, urlforskilllogo3 and further on till 9, similary altname1,altname2 which is for alternate name, basically how your give alt attribute to img tag in HTML.
@@ -60,7 +60,7 @@ This is a versatile npm package designed to simplify the process of creating cap
 
         // At last comes the footer component.
 
-        <Footer mailaddress=' ' GithubUserUrl=' ' LinkedinUserUrl=' ' InstagramUserUrl=' '>
+        <Footer mailaddress=' ' GithubUserUrl=' ' LinkedinUserUrl=' ' InstagramUserUrl=' '/>
 
         // In the Footer component, mailaddress is basically for your mail address.
         // GithubUserURl for your Github Profile and similarly LinkedinUserURl and InstagramUserUrl for 
